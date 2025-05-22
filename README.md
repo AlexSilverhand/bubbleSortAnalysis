@@ -12,6 +12,5 @@ A small Python script that compares the performance of standard Bubble Sort and 
 - Python 3.x  
 - matplotlib  
 
-You can install the required library with:
-```bash  
-pip install matplotlib
+# Screenshot
+![Plot](bubbleSortAnalysis.png)
